@@ -5,8 +5,8 @@ import 'package:mental_health_tracker/moodentry_form.dart';
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
 
-  final String npm = '2306165830'; // NPM
-  final String name = 'Hubban Syadid'; // Nama
+  final String npm = '2306209681'; // NPM
+  final String name = 'Mirza Athallah Salman'; // Nama
   final String className = 'PBP A'; // Kelas
 
   final List<ItemHomepage> items = [
