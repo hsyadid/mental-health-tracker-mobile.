@@ -14,7 +14,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final String npm = '2306165830';
-    final String name = 'Hubban Syadid';
+    final String name = 'HubbanSyadid';
     final String className = 'PBP A';
     return Scaffold(
       // AppBar adalah bagian atas halaman yang menampilkan judul.
